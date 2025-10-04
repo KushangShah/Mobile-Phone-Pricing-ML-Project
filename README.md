@@ -51,6 +51,8 @@ Follow the notebook cells to preprocess data, train models, and evaluate results
 - Evaluation using accuracy, confusion matrix, and classification report
 - Best model achieved accuracy of over 90% on the test set
 
+![Model Score Visualization](ML_model%20score.png)
+
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
